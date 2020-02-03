@@ -1,0 +1,11 @@
+C:\Users\Coco\Documents\GitHub\Globalizating-and-localizing\GAL\bin\Debug\netcoreapp2.1\GAL.deps.json
+C:\Users\Coco\Documents\GitHub\Globalizating-and-localizing\GAL\bin\Debug\netcoreapp2.1\GAL.runtimeconfig.json
+C:\Users\Coco\Documents\GitHub\Globalizating-and-localizing\GAL\bin\Debug\netcoreapp2.1\GAL.runtimeconfig.dev.json
+C:\Users\Coco\Documents\GitHub\Globalizating-and-localizing\GAL\bin\Debug\netcoreapp2.1\GAL.dll
+C:\Users\Coco\Documents\GitHub\Globalizating-and-localizing\GAL\bin\Debug\netcoreapp2.1\GAL.pdb
+C:\Users\Coco\Documents\GitHub\Globalizating-and-localizing\GAL\obj\Debug\netcoreapp2.1\GAL.csprojAssemblyReference.cache
+C:\Users\Coco\Documents\GitHub\Globalizating-and-localizing\GAL\obj\Debug\netcoreapp2.1\GAL.csproj.CoreCompileInputs.cache
+C:\Users\Coco\Documents\GitHub\Globalizating-and-localizing\GAL\obj\Debug\netcoreapp2.1\GAL.AssemblyInfoInputs.cache
+C:\Users\Coco\Documents\GitHub\Globalizating-and-localizing\GAL\obj\Debug\netcoreapp2.1\GAL.AssemblyInfo.cs
+C:\Users\Coco\Documents\GitHub\Globalizating-and-localizing\GAL\obj\Debug\netcoreapp2.1\GAL.dll
+C:\Users\Coco\Documents\GitHub\Globalizating-and-localizing\GAL\obj\Debug\netcoreapp2.1\GAL.pdb
