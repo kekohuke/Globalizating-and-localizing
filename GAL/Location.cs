@@ -4,6 +4,7 @@ using System.Globalization;
 namespace Location{
     public class Location
     {
+        CultureInfo cultureInfo;
         RegionInfo region;
         string EnglishName;
         string CultureName;
@@ -13,10 +14,15 @@ namespace Location{
             EnglishName = region.EnglishName;
             CultureName = cultureName;
             CurrencyEnglishName = region.CurrencyEnglishName;
+            cultureInfo = CultureInfo.CreateSpecificCulture(cultureName);
         }
         public string GetEnglishName()
         {
             return EnglishName;                                 
+        }
+        public string GetTime()
+        {
+            return DateTimeOffset.Now.ToString(cultureInfo);                              
         }
     }
 }
